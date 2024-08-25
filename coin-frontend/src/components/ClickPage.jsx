@@ -148,7 +148,7 @@ export default function ClickPage({ user }) {
         >
             <div className="row text-center pt-2">
                 <div className="col-12 my-3">
-                    <h3 className="text-warning">TapMe</h3>
+                    <h3 className="text-warning">TapMe - {user}</h3>
                 </div>
 
                 <div className="col-12 my-2" style={{ cursor: 'pointer' }}>
