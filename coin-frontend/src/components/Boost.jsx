@@ -127,7 +127,7 @@ export default function Boost({ user }) {
     <div className='container text-white'>
       <div className="row text-center pt-2">
         <div className="col-12 my-3">
-          <h3 className="text-warning">TapMe</h3>
+          <h3 className="text-warning">TapMe - {user}</h3>
         </div>
       </div>
       <hr />
